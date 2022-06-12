@@ -39,7 +39,7 @@ six==1.16.0
 starlette==0.14.2
 toml==0.10.2
 tornado==6.1
-traitlets==5.0.5
+traitlets==5.2.2
 typing-extensions==3.10.0.0
 uvicorn==0.14.0
 uvloop==0.15.2
